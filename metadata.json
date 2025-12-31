@@ -1,0 +1,5 @@
+{
+  "name": "GTAG Shiny Rocks Generator",
+  "description": "Get free Shiny Rocks for Gorilla Tag VR. Secure, server-side generator optimized for Meta Quest and SteamVR.",
+  "requestFramePermissions": []
+}
